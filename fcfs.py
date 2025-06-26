@@ -1,3 +1,6 @@
+# This is the first scheduling algorithm, and the most basic one
+# 
+
 def fcfs_scheduling(processes):
     processes.sort(key=lambda x: x.arrival_time) 
     time = 0  
