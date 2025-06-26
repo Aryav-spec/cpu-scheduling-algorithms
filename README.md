@@ -9,8 +9,6 @@ This project simulates various CPU scheduling algorithms used in operating syste
 - Shortest Remaining Time First (SRTF) – Preemptive
 - Priority Scheduling – Preemptive and Non-Preemptive
 
-Each algorithm is explained in an accompanying blog-style writeup, with code walkthroughs, example inputs, and performance comparisons (turnaround time, waiting time, etc.).
-
 > 🚧 Multilevel Feedback Queue (MLFQ) implementation coming soon!
 
 ---
